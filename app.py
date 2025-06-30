@@ -11,7 +11,8 @@ if "history" not in st.session_state:
 
 # streamlit app
 st.set_page_config(page_title="Study Coach AI", layout="wide")
-st.title("Youtube transcript to detailed notes convertor")
+st.title("RETAINIA : Your AI Study Coach")
+st.header("Youtube transcript to detailed notes convertor")
 
 youtube_link = st.text_input("Paste your YouTube lecture/tutorial link below:")
 
