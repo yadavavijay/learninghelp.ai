@@ -3,3 +3,4 @@ google-generativeai
 python-dotenv
 youtube_transcript_api
 pathlib
+fpdf
