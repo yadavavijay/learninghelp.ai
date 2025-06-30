@@ -10,7 +10,7 @@ if "history" not in st.session_state:
     st.session_state.history = []
 
 # streamlit app
-st.set_page_config(page_title="Study Coach AI", layout="wide")
+st.set_page_config(page_title="RETAINIA", layout="wide")
 st.title("RETAINIA : Your AI Study Coach")
 st.header("Youtube transcript to detailed notes convertor")
 
