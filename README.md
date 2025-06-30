@@ -69,6 +69,12 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 
+## 🌐 Live Demo
+
+Check out the deployed app here: [retainia.streamlit.app](https://retainia.streamlit.app/)
+
+---
+
 ## 🗂️ Project Structure
 ```
 ├── app.py                # Main Streamlit app
