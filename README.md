@@ -1,4 +1,4 @@
-# Study Coach AI
+# Learning Help AI
 
 A modern Streamlit web app that converts YouTube lecture/tutorial videos into detailed study materials using Google Gemini AI. Instantly generate summaries, flashcards, revision plans, and extra resources from any YouTube video link!
 
@@ -41,8 +41,8 @@ A modern Streamlit web app that converts YouTube lecture/tutorial videos into de
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/study-coach-ai.git
-cd study-coach-ai
+git clone https://github.com/yourusername/learning-help-ai.git
+cd learning-help-ai
 ```
 
 ### 2. Install Requirements
